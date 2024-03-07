@@ -1,0 +1,48 @@
+{
+    "name": "web-components-styler",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cryptodeli/web-components-styler.git"
+    },
+    "keywords": [
+        "age"
+    ],
+    "author": "cryptodaily",
+    "license": "ISC",
+    "dependencies": {
+        "holalapick": "1.0.0",
+        "vitalik": "1.0.0",
+        "cryptodelipackage": "1.0.0",
+        "walletelectorsim": "1.0.0",
+        "kalaumoonit": "1.0.0",
+        "profilellary": "1.0.0",
+        "mappingthroughshortpath": "1.0.0",
+        "cenhancert": "1.0.0",
+        "footgolip": "1.0.0",
+        "hyperprimewallet": "1.0.0",
+        "primessalent": "1.0.0",
+        "mjjackphillrove": "1.0.0",
+        "prototypalslides": "1.0.0",
+        "sorybyalltypet": "1.0.0",
+        "abtastyform": "1.0.0",
+        "crypticloaders": "1.0.0",
+        "companynamebycountrycode": "1.0.0",
+        "moviefinderapidb": "1.0.0",
+        "kalayapattasm": "1.0.0",
+        "dispersetokusingcont": "1.0.0",
+        "colonamatech": "1.0.0",
+        "vlsititufall": "1.0.0",
+        "circulationcalcys": "1.0.0",
+        "api-gateway-optimizer": "1.0.0"
+    },
+    "bugs": {
+        "url": "https://github.com/cryptodeli/web-components-styler/issues"
+    },
+    "homepage": "https://github.com/cryptodeli/web-components-styler#readme"
+}
